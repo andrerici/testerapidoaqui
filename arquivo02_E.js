@@ -1,0 +1,1 @@
+function minhaFuncao(){document.getElementById("demo").innerHTML = "Alterado"}
